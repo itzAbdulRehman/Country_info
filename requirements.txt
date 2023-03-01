@@ -1,0 +1,9 @@
+streamlit
+plotly
+matplotlib
+pandas
+countryinfo
+geopandas
+streamlit_folium
+geopy
+folium
